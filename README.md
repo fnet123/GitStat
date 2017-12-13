@@ -8,4 +8,4 @@
     python GitStat.py
 
 ### Snapshot
-![Image text](https://gitlab.cae.com/gds-CppSky/gitstat/raw/master/img/snapshot.jpg)
+![Image text](https://github.com/QWganker/GitStat/blob/master/img/snapshot.jpg)
