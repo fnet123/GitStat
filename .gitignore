@@ -1,0 +1,9 @@
+*.o
+*.so
+*.a
+*.pyc
+.tags_sorted_by_file
+.tags
+/bin
+*.conf
+*.pyc
